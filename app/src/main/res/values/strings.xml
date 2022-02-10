@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DictionaryAPI</string>
+    <string name="word">Word</string>
+    <string name="meaning">Meaning</string>
+    <string name="ha_lo">ha-lo</string>
+    <string name="elementary">elementary</string>
+    <string name="definitions">Definitions</string>
+    <string name="synonyms">Synonyms</string>
+    <string name="example">example</string>
+    <string name="antonyms">Antonyms</string>
+</resources>
